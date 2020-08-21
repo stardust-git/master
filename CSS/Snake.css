@@ -1,0 +1,15 @@
+#snakeWrap div{
+    width: 20px;
+    height: 20px;
+    background-size: cover;
+}
+.snakeHead{
+    background-image: url("../images/snake.png");
+}
+.snakeBody{
+    background-color: #9ddbb1;
+    border-radius: 50%;
+}
+.food{
+    background-image: url("../images/food.png");
+}
